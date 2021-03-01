@@ -3,7 +3,10 @@ anythink
 2anythink
 3anythink
 
+<<<<<<< HEAD
 4anythink
 5anythink
 
 and here new trash
+
+>>>>>>> feature
